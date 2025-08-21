@@ -30,5 +30,6 @@ cd secrets-app
 
 ### 2. Run the code
 ```
+npm install
 node index.js
 ```
