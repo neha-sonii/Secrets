@@ -1,4 +1,4 @@
-# 🔑 Secrets App  
+# 🔑 Secrets
 
 A simple web app built with **Express.js**, **EJS**, and **Axios** that fetches random secrets from an external API and displays them to users.  
 
@@ -24,7 +24,7 @@ A simple web app built with **Express.js**, **EJS**, and **Axios** that fetches 
 
 ### 1. Clone the repo  
 ```bash
-git clone https://github.com/your-username/secrets-app.git
+git clone https://github.com/neha-sonii/Secrets.git
 cd secrets-app
 ```
 
